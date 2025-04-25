@@ -42,10 +42,10 @@ Procese clar stabilite
 Te rog analizează și oferă feedback.
 ```
 
+## Exercițiul 2:
+
 ![Exercitiul 2](images/1_2.png)
 
-
-## Exercițiul 2:
 
 Prompt:
 ```
