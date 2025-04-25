@@ -1,5 +1,10 @@
 
-Faceți un screenshot cu râspunsurile voastre și ofețil lui chatGPT cu prompt-ul scris aici, analizați detaliat sugestiile primite, mai ales dacă au fost detectate ceva greșeli.
+Faceți un screenshot cu râspunsurile voastre și ofețil lui chatGPT cu prompt-ul scris pentru exercitiu, analizați detaliat sugestiile primite, mai ales dacă au fost detectate ceva greșeli.
+
+**IMPORTANT!!!**: AI-ul la fel ca și omul are nevoie de un screen bun pentru a înțelege ceva, aveți grija să faceți un screen de calitate bună și ce conține toată informația de la exercițiu
+
+![Exercitiul 1](images/example.png)
+
 
 # Modulul 1
 
